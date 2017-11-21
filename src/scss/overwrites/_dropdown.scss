@@ -1,0 +1,10 @@
+/**
+ * Overwrites for dropdown
+ * @package 	Plugin/CustomCss
+ * @author 		Yannick Herzog
+ * @modified	2017-11-21
+ */
+
+.dropdown-submenu-open li.separator:hover {
+	background-color: transparent !important;
+}
